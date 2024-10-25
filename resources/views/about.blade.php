@@ -6,6 +6,13 @@
     <title>About Page</title>
 </head>
 <body>
-    <h1>Hello from the about Page.</h1>
+
+<nav>
+    <a href="/">Home</a>
+    <a href="/about">About</a>
+    <a href="/contact">Contact</a>
+    </nav>
+
+    <h1>Hello from the About Page.</h1>
 </body>
 </html>
