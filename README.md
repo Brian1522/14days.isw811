@@ -64,3 +64,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## El episodio #20 habla de la autenticaion y como funciona, se crea un nuevo proyecto pero este no se ejecuta porque solo es para la explicacion. Se cumple con hacer el commit para dejar la evidencia de que se vio el episodio.
