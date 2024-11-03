@@ -1,5 +1,5 @@
 <x-layout>
     <x-slot:heading>
-       Welcome the Home
+        Home Page
     </x-slot:heading>
 </x-layout>
